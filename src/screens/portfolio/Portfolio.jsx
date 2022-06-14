@@ -31,6 +31,7 @@ function Portfolio() {
           <Image src={data.image} style={{ width: '200px' }} />
         </Modal.Body>
         <a id="portfolio__modal__link" href={data.link} target="_blank" rel="noreferrer">Go to deployed site</a>
+        <a id="portfolio__modal__repo" href={data.repo} target="_blank" rel="noreferrer">Go to Github Repo</a>
         <Modal.Footer>
           <div>Technologies used: </div>
           <p style={{ fontSize: '0.7rem', marginRight: 'auto'}}>{data.tech}</p>
@@ -47,6 +48,7 @@ function Portfolio() {
           onClick={() => {
             setTempData({
               image: e.image,
+              repo: e.repo,
               link: e.link,
               desc: e.desc,
               summary: e.summary,

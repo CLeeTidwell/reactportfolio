@@ -10,7 +10,7 @@ function Resume() {
      </div>
      <div className="resume__text">
         <h1>Resume</h1>
-       <p><b>Click the link below for my downloadable resume</b></p>
+       <p><b>Click the link below for my resume</b></p>
        <p><a href="https://docs.google.com/document/d/1dzcDjlG6YZJRgwuzaEcBxvUnlNM7WsiF0Bbko3DCq0w/edit?usp=sharing">Link to Resume</a></p>
      </div>
     </div>

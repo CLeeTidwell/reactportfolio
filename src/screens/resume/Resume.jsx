@@ -9,6 +9,7 @@ function Resume() {
       <img src={document} alt="document icon"/>
      </div>
      <div className="resume__text">
+        <h1>Resume</h1>
        <p><b>Click the link below for my downloadable resume</b></p>
        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quia placeat eos atque veniam voluptatum sapiente ipsum tempore iste, omnis cumque velit autem consectetur. Veritatis molestias ullam voluptas nostrum? Dolorum.</p>
      </div>

@@ -5,6 +5,7 @@ import Header from './screens/header/Header';
 import AboutMe from './screens/aboutMe/AboutMe';
 import Technologies from './screens/technologies/Technologies';
 import Portfolio from './screens/portfolio/Portfolio';
+import Resume from './screens/resume/Resume';
 import ContactMe from './screens/contactMe/ContactMe';
 
 
@@ -23,6 +24,7 @@ function App() {
       <AboutMe />
       <Technologies />
       <Portfolio />
+      <Resume />
       <ContactMe />
     </div>
   );

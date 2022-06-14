@@ -14,6 +14,10 @@ export const navigationLinks = [
   {
     name: 'PORTFOLIO',
     ref: '#portfolio'
+  },  
+  {
+    name: 'RESUME',
+    ref: '#resume'
   },
   {
     name: 'CONTACT',

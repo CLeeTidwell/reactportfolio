@@ -1,0 +1,47 @@
+.sendMessage__container {
+  background: #fff;
+  box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+  border-radius: 5px;
+  max-width: 480px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  border-top: 5px solid #0e3721;
+  /* z-index: 1; */
+  animation: bounce 1.5s infinite;
+}
+
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+
+
+
+/*  ---------------- MEDIA QUERIES ----------- */
+
+@media only screen and (max-width: 900px ){
+  .sendMessage__container {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 700px ){
+  .sendMessage__text {
+    max-width: 300px;
+  }
+}

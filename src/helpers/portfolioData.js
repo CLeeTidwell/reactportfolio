@@ -27,7 +27,7 @@ const portfolioData = [
     link: 'https://andyan7.github.io/got-gitProjOne/',
     desc: 'Sprout Spy 1.0',
     summary: 'A gardening app to learn what plants I can grow near me, to get instructions for growing those plants, and to find a community garden. Visit the repo at github.com/AndyAn7/got-gitProjOne',
-    tech: 'Google Maps/Places API | Openweathermaps API | C0bra API | JQuery | Javascript | CSS'
+    tech: 'Google Maps/Places API | Openweathermaps API | C0bra API | JQuery | Javascript | Github'
   },
 ]
   

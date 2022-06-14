@@ -2,6 +2,7 @@
 import sproutspyv3 from '../images/projectsicon/sproutspy3.gif'
 import sproutspyv2 from '../images/projectsicon/sproutspy2.gif'
 import sproutspyv1 from '../images/projectsicon/sproutspy1.png'
+import techblog from '../images/projectsicon/techblog.jpg'
 
 
 
@@ -28,6 +29,13 @@ const portfolioData = [
     desc: 'Sprout Spy 1.0',
     summary: 'A gardening app to learn what plants I can grow near me, to get instructions for growing those plants, and to find a community garden. Visit the repo at github.com/AndyAn7/got-gitProjOne',
     tech: 'Google Maps/Places API | Openweathermaps API | C0bra API | JQuery | Javascript | Github'
+  },
+  {
+    image:  techblog,
+    link: 'https://justanothertechblog.herokuapp.com/',
+    desc: 'JustAnotherTechBlog',
+    summary: 'a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers posts as well.',
+    tech: 'Javascript | MySQL | Node | Express'
   },
 ]
   

@@ -21,7 +21,7 @@ function ContactMe() {
           {createLinks()}
         </div>
       </div>
-      <div style={{ textAlign:'center'}}>Copyright&copy; {new Date().getFullYear()} All rights reserved</div>
+      <div style={{ textAlign:'center'}}>Created with ❤️ by <a href="https://www.github.com/CLeeTidwell">CLeeTidwell</a>. Copyright&copy; {new Date().getFullYear()} All rights reserved</div>
     </div>
   )
 }

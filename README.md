@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Please visit https://cleetidwell.github.io/reactportfolio/ for the deployed application.
+
 ## Table of Contents
 * [Installation](#installation)
 * [Technologies](#technologies)

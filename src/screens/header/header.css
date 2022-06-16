@@ -1,13 +1,11 @@
 .main-info {
-  display: flex;
-  position: absolute;
-  color: var(--font-color);
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  flex-direction: column;
-  justify-content: center;
+  font-family: sans-serif;
+  font-weight:800;
+  font-size:40px;
+  text-align: center;
+  display:flex;
+  justify-content:center;
   align-items: center;
-  z-index: 1;
+  min-height:100vh;
+  background: var(--light-color);
 }
